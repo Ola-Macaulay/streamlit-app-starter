@@ -18,7 +18,7 @@ st.write([1,2,3,4,5])
 def launch_baloons_and_snow():
   st.baloons()
   st.snow()
-st.button("Launch baloons", on_click=st.baloons)
+#st.button("Launch baloons", on_click=st.baloons)
 
 st.button("Make it snow", on_click=st.snow)
 
