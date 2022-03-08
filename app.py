@@ -9,3 +9,5 @@ st.image("https://unpackai.github.io/unpackai_logo.svg")
 st.title("WebScrapping of Lego Prices around the world 🌏")
 st.write("*by <Solo>*")
 # st.write("---")
+
+st.write([1,2,3,4,5])
