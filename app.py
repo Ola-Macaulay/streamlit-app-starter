@@ -22,9 +22,9 @@ def launch_baloons_and_snow():
 
 st.button("Make it snow", on_click=st.snow)
 
-# fruit=st.radio("Fruit type", ["Apples", "Pears", "Lemons"])
-# number_of_fruits=st.slider(f"Number of {fruit}, 1, 35")
+fruit=st.radio("Fruit type", ["Apples", "Pears", "Lemons"])
+number_of_fruits=st.slider(f"Number of {fruit}, 1, 35")
 
-# st.write("There are", number_of_fruits, fruit)
+st.write("There are", number_of_fruits, fruit)
                            
-# st.write(number_of_fruits/2)
+st.write(number_of_fruits/2)
