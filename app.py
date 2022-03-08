@@ -10,4 +10,5 @@ st.title("WebScrapping of Lego Prices around the world 🌏")
 st.write("*by <Solo>*")
 # st.write("---")
 
+st.markdown("This is a list of number within the rane of 6")
 st.write([1,2,3,4,5])
