@@ -23,7 +23,7 @@ st.write([1,2,3,4,5])
 # st.button("Make it snow", on_click=st.snow)
 
 fruit=st.radio("Fruit type", ["Apples", "Pears", "Lemons"])
-number_of_fruits=st.slider(f"Number of {fruit}, 1, 35)
+number_of_fruits=st.slider(f"Number of {fruit}, 1, 35")
 
 st.write("There are", number_of_fruits, fruit)
                            
