@@ -18,7 +18,6 @@ st.image("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQVFBgVFRU
 def launch_baloons_&_snow:
   st.baloons()
   st.snow()
-                
 st.button("Launch baloons", on_click=st.baloons)
 
 st.button("Make it snow", on_click=st.snow)
